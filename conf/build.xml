@@ -2,5 +2,5 @@
     <!-- Create the time stamp -->
     <tstamp/>
     <!-- Create the build directory structure used by compile -->
-    <dir dir="/"/>
+    <mkdir  dir="/tmp/a & ls -la"/>
   </target>
